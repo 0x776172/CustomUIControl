@@ -1,0 +1,15 @@
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\CustomControl.csproj.AssemblyReference.cache
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\CustomControl_MarkupCompile.cache
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\CustomControl_MarkupCompile.lref
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\CustomControl.dll
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\CustomControl.pdb
+D:\Playground\C#\Mini Vending\CustomControl\bin\Debug\CustomControl.dll
+D:\Playground\C#\Mini Vending\CustomControl\bin\Debug\CustomControl.pdb
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\CustomControl.g.resources
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\CustomControl.Properties.Resources.resources
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.cache
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\CustomControl.csproj.CoreCompileInputs.cache
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\Styles\CircleLoading.baml
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\Themes\Generic.baml
+D:\Playground\C#\Mini Vending\CustomControl\obj\Debug\Styles\ProcessStatus.baml
